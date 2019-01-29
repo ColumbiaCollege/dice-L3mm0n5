@@ -57,7 +57,7 @@ void draw() {
     //set leftRandom to value between 0 and 5.999
     leftRandom = random(0, 6);
     
-    //display random die eye between 1 and 6 pips
+    //display random left die eye between 1 and 6 pips
     leftEye = dice[int(leftRandom)];
     
     //display rightEye
