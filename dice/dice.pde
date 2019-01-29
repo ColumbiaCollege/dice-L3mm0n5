@@ -34,7 +34,7 @@ void setup() {
   //line(0,0,width,height);
   //line(192,0,0,240);
 
-  //load face image
+  //display face image
   image(face, 0, 0);
 
   //set leftEye and rightEye to random 
