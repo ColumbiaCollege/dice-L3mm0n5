@@ -38,7 +38,7 @@ void setup() {
   image(face, 0, 0);
 
   //set leftEye and rightEye to random 
-  //integers between 0 and 5, respectively
+  //die eyes between 1 and 6 pips, respectively
   leftEye = dice[int(leftRandom)];
   rightEye = dice[int(rightRandom)];
 }
